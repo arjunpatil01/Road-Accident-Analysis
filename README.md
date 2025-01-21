@@ -1,5 +1,4 @@
 # Road-Accident-Analysis 
-Minor Project
   ANALYSIS OF DATA
 1 Casualties by Vehicle Type analysis.
 2 CY Casualties vs PY Casualties Monthly Trend analysis.
